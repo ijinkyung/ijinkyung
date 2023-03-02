@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello, I'm Jinkyung&fontSize=67" />
 
 ### Hi there 👋
 
